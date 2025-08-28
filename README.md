@@ -8,12 +8,6 @@ Clone this repository with submodules:
 git clone --recurse-submodules https://github.com/ThomasVuNguyen/Starmind-Zero.git
 ```
 
-Or if you already cloned without submodules:
-```bash
-git submodule init
-git submodule update
-```
-
 ## Updating Submodules
 
 To update submodules to their latest commits:
