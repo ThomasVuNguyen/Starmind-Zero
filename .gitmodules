@@ -1,0 +1,3 @@
+[submodule "pico-train"]
+	path = pico-train
+	url = https://github.com/pico-lm/pico-train.git
