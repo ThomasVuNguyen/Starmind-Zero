@@ -1,49 +1,83 @@
 #!/usr/bin/env python3
 """
-Inference script for pico-lm/pico-decoder-tiny model using Hugging Face transformers.
+Inference script for pico-lm model using local checkpoint with the updated model architecture.
 Optimized for clean, readable code and efficient inference on resource-constrained devices.
 """
 
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import argparse
+import os
+import sys
 from typing import Optional, Dict, Any
+import argparse
 
+# Add the pico-train src directory to the path so we can import our model
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'pico-train', 'src'))
 
 class PicoLMInference:
-    """Clean and efficient inference wrapper for pico-lm/pico-decoder-tiny model."""
+    """Clean and efficient inference wrapper for pico-lm model using local checkpoint."""
     
-    def __init__(self, model_name: str = "pico-lm/pico-decoder-tiny", device: Optional[str] = None):
+    def __init__(self, checkpoint_path: str = "pico-train/runs/pico-decoder-tiny-max-vram/checkpoints/latest", device: Optional[str] = None):
         """
         Initialize the PicoLM inference engine.
         
         Args:
-            model_name: Hugging Face model identifier
+            checkpoint_path: Path to the local checkpoint directory
             device: Device to run inference on ('cpu', 'cuda', or None for auto-detection)
         """
-        self.model_name = model_name
+        self.checkpoint_path = checkpoint_path
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         
-        print(f"Loading model: {model_name}")
+        print(f"Loading model from checkpoint: {checkpoint_path}")
         print(f"Using device: {self.device}")
         
-        # Load tokenizer and model
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            model_name,
-            torch_dtype=torch.float16 if self.device == "cuda" else torch.float32,
-            device_map="auto" if self.device == "cuda" else None,
-            low_cpu_mem_usage=True
-        )
+        # Import our model classes
+        from model.pico_decoder import PicoDecoderForCausalLM, PicoDecoderHFConfig
         
-        if self.device == "cpu":
-            self.model = self.model.to(self.device)
+        # Load config
+        config_path = os.path.join(checkpoint_path, "config.json")
+        if not os.path.exists(config_path):
+            raise FileNotFoundError(f"Config file not found: {config_path}")
+        
+        import json
+        with open(config_path, 'r') as f:
+            config_dict = json.load(f)
+        
+        # Create config object
+        self.config = PicoDecoderHFConfig(**config_dict)
+        print(f"✓ Loaded config: vocab_size={self.config.vocab_size}")
+        
+        # Create model instance
+        print("Creating model instance...")
+        self.model = PicoDecoderForCausalLM(self.config)
+        
+        # Load weights from checkpoint
+        print("Loading weights from checkpoint...")
+        checkpoint_file = os.path.join(checkpoint_path, "model.safetensors")
+        
+        if os.path.exists(checkpoint_file):
+            from safetensors.torch import load_file
+            state_dict = load_file(checkpoint_file)
+            
+            # Load state dict
+            self.model.load_state_dict(state_dict, strict=False)
+            print("✓ Weights loaded successfully")
+        else:
+            raise FileNotFoundError(f"Model weights file not found: {checkpoint_file}")
+        
+        # Move model to device
+        self.model = self.model.to(self.device)
+        self.model.eval()
+        
+        # Load tokenizer
+        print("Loading tokenizer...")
+        from transformers import AutoTokenizer
+        self.tokenizer = AutoTokenizer.from_pretrained(checkpoint_path, trust_remote_code=True)
         
         # Set pad token if not present
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
         
-        print("Model loaded successfully!")
+        print("✓ Model loaded successfully!")
     
     def generate_completion(
         self,
@@ -134,7 +168,10 @@ class PicoLMInference:
 
 def main():
     """Main function with command-line interface."""
-    parser = argparse.ArgumentParser(description="PicoLM inference script")
+    parser = argparse.ArgumentParser(description="PicoLM inference script using local checkpoint")
+    parser.add_argument("--checkpoint", "-c", type=str, 
+                       default="pico-train/runs/pico-decoder-tiny-max-vram/checkpoints/latest",
+                       help="Path to checkpoint directory")
     parser.add_argument("--prompt", "-p", type=str, help="Input prompt for text generation")
     parser.add_argument("--max-length", "-l", type=int, default=100, help="Maximum generation length")
     parser.add_argument("--temperature", "-t", type=float, default=0.7, help="Sampling temperature")
@@ -145,7 +182,7 @@ def main():
     
     try:
         # Initialize inference engine
-        inference = PicoLMInference(device=args.device)
+        inference = PicoLMInference(checkpoint_path=args.checkpoint, device=args.device)
         
         if args.interactive:
             inference.interactive_mode()
@@ -165,6 +202,8 @@ def main():
             
     except Exception as e:
         print(f"Error: {e}")
+        import traceback
+        traceback.print_exc()
         return 1
     
     return 0
