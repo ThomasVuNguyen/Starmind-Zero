@@ -7,16 +7,39 @@ Optimized for clean, readable code and efficient inference on resource-constrain
 import torch
 import os
 import sys
+import shutil
 from typing import Optional, Dict, Any
 import argparse
 
 # Add the pico-train src directory to the path so we can import our model
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'pico-train', 'src'))
 
+# Clear model cache to ensure fresh model loading
+def clear_model_cache():
+    """Clear model cache directories to ensure fresh model loading."""
+    cache_dirs = [
+        os.path.expanduser("~/.cache/huggingface"),
+        os.path.expanduser("~/.cache/torch"),
+        os.path.expanduser("~/.cache/transformers"),
+        os.path.expanduser("~/.cache/safetensors")
+    ]
+    
+    for cache_dir in cache_dirs:
+        if os.path.exists(cache_dir):
+            try:
+                print(f"Clearing cache: {cache_dir}")
+                shutil.rmtree(cache_dir)
+                print(f"✓ Cleared: {cache_dir}")
+            except Exception as e:
+                print(f"Warning: Could not clear {cache_dir}: {e}")
+
+# Clear cache at module import
+clear_model_cache()
+
 class PicoLMInference:
     """Clean and efficient inference wrapper for pico-lm model using local checkpoint."""
     
-    def __init__(self, checkpoint_path: str = "pico-train/runs/pico-decoder-tiny-max-vram/checkpoints/latest", device: Optional[str] = None):
+    def __init__(self, checkpoint_path: str = "pico-train/runs/pico-decoder-tiny/checkpoints/step_1755", device: Optional[str] = None):
         """
         Initialize the PicoLM inference engine.
         
@@ -170,7 +193,7 @@ def main():
     """Main function with command-line interface."""
     parser = argparse.ArgumentParser(description="PicoLM inference script using local checkpoint")
     parser.add_argument("--checkpoint", "-c", type=str, 
-                       default="pico-train/runs/pico-decoder-tiny-max-vram/checkpoints/latest",
+                       default="pico-train/runs/pico-decoder-tiny/checkpoints/step_1755",
                        help="Path to checkpoint directory")
     parser.add_argument("--prompt", "-p", type=str, help="Input prompt for text generation")
     parser.add_argument("--max-length", "-l", type=int, default=100, help="Maximum generation length")
