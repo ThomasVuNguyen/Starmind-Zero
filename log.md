@@ -43,3 +43,69 @@
 ---
 *Training run: pico-decoder-tiny-dolma29k-v2*
 *Status: Healthy, stable training in progress*
+
+---
+
+## 2025-08-29 - Configuration Update for Dolma 5M Scaling
+
+### What We Did
+- **Updated configuration for scaling training** from 29k tokens to 5M tokens
+- **Implemented stability-focused hyperparameters** based on OLMo 2 and OLMoE best practices
+- **Changed dataset** from `pico-lm/pretokenized-dolma` to `ThomasTheMaker/pretokenized-dolma-5M`
+
+### Key Hyperparameter Changes Applied
+
+#### Learning Rate Schedule
+- **Before**: `linear_with_warmup` (designed for short sprints)
+- **After**: `cosine` decay over full dataset
+- **Why**: Sustained learning rate that gradually decreases over entire 5M tokens without premature drop to zero
+
+#### Weight Initialization
+- **Before**: Standard normal distribution
+- **After**: `truncated_normal` initialization
+- **Why**: Prevents extreme outlier weights that cause immediate instability in long training runs
+
+#### Layer Normalization
+- **Before**: `LayerNorm`
+- **After**: `RMSNorm`
+- **Why**: Empirically more stable for large-scale transformer training, prevents gradient norm spikes
+
+#### Query-Key Normalization
+- **Before**: `false`
+- **After**: `use_qk_norm: true`
+- **Why**: Prevents attention logits from becoming too large, crucial for numerical stability and preventing divergence
+
+#### AdamW Epsilon
+- **Before**: Already at `1e-8` (optimal)
+- **After**: Maintained at `1e-8`
+- **Why**: Confirmed optimal setting for training stability and convergence speed
+
+### Configuration Details
+- **Run name**: Updated to `pico-decoder-tiny-dolma5M-v1`
+- **Dataset**: `ThomasTheMaker/pretokenized-dolma-5M`
+- **Training steps**: 20,000 (maintained for full convergence)
+- **Warmup**: 8,000 steps (extended for stability)
+- **Learning rate**: 0.00005 (maintained for precision)
+
+### Expected Benefits
+1. **Stability**: Truncated normal + RMSNorm prevent training instability
+2. **Sustained Learning**: Cosine schedule ensures effective learning over full dataset
+3. **Attention Stability**: QK-Norm prevents numerical overflows
+4. **Convergence**: Optimized hyperparameters for faster, more stable convergence
+5. **Scalability**: Proven to work well for large-scale training runs
+
+### What We Do Next
+- **Begin new training run** with updated configuration
+- **Monitor stability** during early training phases
+- **Track convergence** over the full 5M token dataset
+- **Compare performance** against previous 29k token runs
+- **Validate** that stability improvements translate to better model quality
+
+### Implementation Notes
+- **Cosine Scheduler**: Implemented in training code since it wasn't originally supported
+- **Scheduler Details**: Linear warmup (8000 steps) followed by cosine decay to 0.1x initial LR
+- **Code Location**: `pico-train/src/training/utils/initialization.py` - added cosine scheduler support
+
+---
+*Training run: pico-decoder-tiny-dolma5M-v1*
+*Status: Configuration updated, ready for new training run*
