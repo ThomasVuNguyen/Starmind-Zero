@@ -39,7 +39,7 @@ clear_model_cache()
 class PicoLMInference:
     """Clean and efficient inference wrapper for pico-lm model using local checkpoint."""
     
-    def __init__(self, checkpoint_path: str = "pico-train/runs/pico-decoder-tiny/checkpoints/step_1755", device: Optional[str] = None):
+    def __init__(self, checkpoint_path: str, device: Optional[str] = None):
         """
         Initialize the PicoLM inference engine.
         
@@ -189,12 +189,45 @@ class PicoLMInference:
                 print(f"Error: {e}")
 
 
+def build_checkpoint_path(model_name: str, step_number: int, base_dir: str = "pico-train/runs") -> str:
+    """
+    Build checkpoint path from model name and step number.
+    
+    Args:
+        model_name: Name of the model (e.g., 'pico-decoder-tiny-dolma5M-v1')
+        step_number: Checkpoint step number
+        base_dir: Base directory for model runs
+        
+    Returns:
+        Full path to the checkpoint directory
+    """
+    checkpoint_path = os.path.join(base_dir, model_name, "checkpoints", f"step_{step_number}")
+    return checkpoint_path
+
+
 def main():
     """Main function with command-line interface."""
-    parser = argparse.ArgumentParser(description="PicoLM inference script using local checkpoint")
+    parser = argparse.ArgumentParser(
+        description="PicoLM inference script using local checkpoint",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python inference.py pico-decoder-tiny-dolma5M-v1 1000
+  python inference.py pico-decoder-tiny-dolma5M-v1 1000 --interactive
+  python inference.py pico-decoder-tiny-dolma5M-v1 1000 --prompt "Hello world"
+  python inference.py --checkpoint path/to/checkpoint  # Use full path (legacy mode)
+        """
+    )
+    
+    # Positional arguments for simplified usage
+    parser.add_argument("model_name", nargs="?", type=str, 
+                       help="Model name (e.g., 'pico-decoder-tiny-dolma5M-v1')")
+    parser.add_argument("step_number", nargs="?", type=int,
+                       help="Checkpoint step number (e.g., 1000)")
+    
+    # Optional arguments
     parser.add_argument("--checkpoint", "-c", type=str, 
-                       default="pico-train/runs/pico-decoder-tiny/checkpoints/step_1755",
-                       help="Path to checkpoint directory")
+                       help="Full path to checkpoint directory (overrides model_name/step_number)")
     parser.add_argument("--prompt", "-p", type=str, help="Input prompt for text generation")
     parser.add_argument("--max-length", "-l", type=int, default=100, help="Maximum generation length")
     parser.add_argument("--temperature", "-t", type=float, default=0.7, help="Sampling temperature")
@@ -203,9 +236,40 @@ def main():
     
     args = parser.parse_args()
     
+    # Determine checkpoint path
+    checkpoint_path = None
+    
+    if args.checkpoint:
+        # Use explicitly provided checkpoint path (legacy mode)
+        checkpoint_path = args.checkpoint
+    elif args.model_name and args.step_number is not None:
+        # Build checkpoint path from model name and step number
+        checkpoint_path = build_checkpoint_path(args.model_name, args.step_number)
+    else:
+        # No valid arguments provided
+        parser.error("Either provide model_name and step_number, or use --checkpoint with full path")
+    
+    # Validate checkpoint path exists
+    if not os.path.exists(checkpoint_path):
+        print(f"Error: Checkpoint path does not exist: {checkpoint_path}")
+        return 1
+    
+    config_path = os.path.join(checkpoint_path, "config.json")
+    model_file = os.path.join(checkpoint_path, "model.safetensors")
+    
+    if not os.path.exists(config_path):
+        print(f"Error: Config file not found: {config_path}")
+        return 1
+        
+    if not os.path.exists(model_file):
+        print(f"Error: Model file not found: {model_file}")
+        return 1
+    
+    print(f"Using checkpoint: {checkpoint_path}")
+    
     try:
         # Initialize inference engine
-        inference = PicoLMInference(checkpoint_path=args.checkpoint, device=args.device)
+        inference = PicoLMInference(checkpoint_path=checkpoint_path, device=args.device)
         
         if args.interactive:
             inference.interactive_mode()
