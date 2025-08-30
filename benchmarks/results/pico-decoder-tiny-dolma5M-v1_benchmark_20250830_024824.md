@@ -6840,3 +6840,2774 @@ We are that the same thing you are the
 
 ### Prompt 8: "Python programming is"
 
+**Response**:
+```
+a time to a long, the list is the way to be the problem is the time of the whole.
+I've been to the way you will be more of the right time, and this is not. I could be able to be a one of the right time, and we can see my way to me.
+I don't like I don't want to do. I think I'll need to get some of my life to do it.
+I was a few
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_22500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_22500`
+
+**Load Time**: 0.28s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+{}
+[1>
+        "
+        }
+        //        <td>
+        return true;
+            <issue_t = "this.get(this.0.get(p_get_name.get_3.get_0.set.data.p.6.S.
+        //
+        if (this.get_user.0.data.get_name_get_this.get_value
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+.
+I've got the point, I’m not a lot. I’ve heard a lot of people who is a lot of the story for me. I’ve been a lot of the way.
+I don’t have to look at the way of the time you’ll need to get my life.
+I’ve just want to find out of me.
+I’m not going on the day for the best!
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the other of the number of the following of the name of the world.
+The following the company is the best of the study of the current and is a number of the U.S.
+The world is the past-1, in the other of the world.
+The F.
+The data of the National.
+The value of the final line was a given by the following.
+The F-19-1-a-1,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+. I really just do.
+I get my work at the same day, I’m not a very lot of my own way to do it.
+I have a little more things. I’m not just like you’ve been for the best and I’m just as the most of me I’ve got in a day. I’m not my day I’m not to the top of me.
+I’ve seen my head.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+(4) for a new year. In the number of a small number of the value of the most of the most common market. The recent number of the world. The first time has the most important, with the time. The company is the best of the same, the end of the way to the time and the following-for-2.
+The first time-1. The state of the state (C-4.5. The number of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+on in the best of the second. It also includes the final year of the number of the C.
+As the first time, the state is a significant in the "1" of the "C" from the world.
+What the first-p" is to the first, I've been a huge. I have a bit of the same point, this is a single-in-p.
+The world is a lot of the same.
+The new
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+and a few years.
+If you can do this. I do not know the day, we can do it. I think we would not just like that.
+We have a bad, this is a lot of the best thing.
+You need to be done and what you will be to your way, you can see the point.
+I don’t know, you are not on the one of you, you need to be a lot of the day
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+a lot of time.
+The final time, the data of the first year will be made to the business to the world, that the main days that the same is the two of the time.
+The first type of the two of the end of the world, a list of the time and the two of the study of the market, the world is the world.
+We have a lot of the same time, the world is not an a very long--level year
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_23000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_23000`
+
+**Load Time**: 0.26s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+It's my problem. I did not know my home. I’ve been me, my heart.
+I am going, I really had a bit. I was my wife. I didn’ve had to see my heart. I’ve made me. I had to go up and a bit of my life, my first one thing to say. I was the way I was very much a lot of my book. I’ll look back to
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+to the time to a high-to-year----year-of---------------------------------------------------------------------------
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of a place to make the same as it is a day of the same time. The second of the day is the same time of the same time of the first value, we have a few of the time. The most part of the year we can be used to the end of the past, the first, is the number of the first, the process of the data of the way.
+
+The game is the most of the value of the new,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+zg (f) \label{2\2x=1} \1 \label{s}  \end{a{2{t\end{A\ \end{d{s}
+\n \end{2}
+\begin{t\label{t \ \\begin{i}
+\end{1 \\begin{s \ \label{-} \}\\label{d\begin{2\
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+.
+A.
+"It is the day.
+
+In this year, I’m not a few months, and then I’m so that. I don’t want to have a few years I’ve never going to get my thing.
+We’ve been on the same thing I’m sure. I’m not a lot of my own way.
+I’m a bit to do it. I’m not a
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+more about the way you can have the most of the way it is the time you are.
+You can help you all the same for you you can be a lot of your own.
+In addition to be a very well-in-up to the process of the way.
+It's going to the time, I need to go, or not a few of the way to be more about it.
+A week, you may have a few people who have
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.87s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+the time and the way to make a different and that you are for the world and a new problem to your life.
+
+I have to the end of the past.
+The team was a new, I'm in the problem.
+A woman will also be.
+The way, they are not the first place you have to make a great place to be done in the new, it is an opportunity to the most likely.
+The day is the way
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the time to the case, the way they are the first.
+If you do it, it is the way, and the way that is the time, we're a few years of the most important, it will have the way to the time, and the way I'm not a lot of a great way.
+I have a lot of the world, the only thing, it was a good thing, but the case, so. It has been a lot of the most
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.85s
+
+---
+
+## Checkpoint: step_23500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_23500`
+
+**Load Time**: 0.19s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+I say that. I’ve already got a few years that's going on her.
+I love my blog to take a few years to work with the same. I was a lot of the same time. I'll be the one of the only person to the first time we would like this, I’m not to me. I’ve already wanted to the most of the most of the problem.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.74s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I do to do the time, I am not a few of the time I had to see the way I don't know, I don't want to.
+
+I don't really have the world's time I like to do this time!
+I have been a few of my name. I will get a day. I'm just to the time I'd get that it's not a new. I had to know my first time I'll
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+.
+
+The game is a few years and it is one of the world, the world, and the two-p.
+The study is the time to the current-to--or-t-c-1.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- I’m not a number of the last year-19
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+us, and we have, and there is no longer, and that you are now.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.17s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+I do. I really would be a big problem with my family and I was that it was my husband. I don't know the time I love I'm not a lot of me. I was to my own. I have been it to my mother, but I had to make sure I was still just wanted to me!
+I’ve seen it. I would be a better time to be more about it. I’ve got to me.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+in the way we have been that if they're going to do the way of the way that I was not so that the time.
+The game is a few years of the same. I have no matter how a whole post is a person and that we would have the best way to me about the time.
+The same time we were a nice way to the number of the time.
+If the most important that we could be a lot of the most of the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+we think that the game is,, it is in a very easy to be very important to be not too much more than the person.
+I'm not able to find the world?
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.33s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+a little bit.
+I know I can't make your work in the same, I know if you don't see the way to my own I will be not in your home.
+This is the same way to make the work and it is a long time of the way we can find your own.
+
+I think you are the same and get a couple of you, and you can be not in.
+You are not in your own.
+
+
+I can
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+---
+
+## Checkpoint: step_24000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_24000`
+
+**Load Time**: 0.22s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+"If it would say that he's not. I don’t feel that.
+I’m not in the same time. I’ve had a long idea if I’m not the way that. I’m not a lot of the best of my story.
+I don’t take the first one time I’m not going to do that’s one thing. I’m not a bad I’m going to my first day
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I know I’m not a new time to be in the first time I’m going to. I do just like to.
+I could never have to do the "s". I can't have the same way I like to go to this, that I can have to know if it's my way I did not do.
+I’m looking for my way I could have the time, but I had to be.
+I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the name of the development of the case of the new-t-day of the two of the following of the total of the value of the U.
+- The result of the
+-
+- The D.2-1-1-the-1.6-4.5-2.
+- The $7.
+-
+-
+- "s.2.5.
+-
+- The 4-2-e.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, and, and the main, the first of the whole, the form of the final year, the study is of the second. This is the same, it is the first, we do not be a bit of the best.
+The same year, the main type of the "G{
+
+import{In the $5" is the result of the $1(1) in the new main and a $5.S.
+\end{
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+"
+
+
+
+""
+
+
+"
+
+
+
+<
+
+
+
+
+
+}
+
+
+  "
+
+
+<
+
+
+  "
+
+
+
+    
+
+
+
+
+<
+
+
+  
+
+  "
+}
+""
+    "
+
+  return
+
+
+
+  
+
+}
+
+
+  return
+ *
+  "
+
+
+
+  const
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a year.
+
+And we’re not the second day, I’m not a lot of my own.
+- I’m a lot of my website.
+I’m so I’m not a little to, I’d always like it’s going to the way.
+As I’m not too much more about her.
+I’ve never a lot of my friend of my life.
+I’m not just a great
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+, that they’s not to the second world.
+We’m not.
+We’t have to know the same for them.
+What’s all of the same way.
+It’s a lot of the world.
+- I’m not the same way to do the same.
+- I’t have the same time you’t get a few of time.
+- I’m not to be.
+I’d
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the first-on--S---------------3----2-------5----2-1-3-1-5-1--1-2-6-to-2-3-c-2-1-1-5-1-2-5-8-8-4-6-t-S-9/C/
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_24500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_24500`
+
+**Load Time**: 0.19s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+if (8)
+
+4)
+
+S_comment_t_get_t_1.9
+
+#
+-
+
+#
+
+
+#
+
+
+-
+-
+-
+
+-
+-
+
+-
+-
+-
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- I have a problem.
+- I think I’t know the
+-
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+to have the way you can’t do with a day that’s not on the right to be.
+There’s a little, we’ll be the same, but I’m not going to be the fact.
+You’ll be more about the case you’re in. I’m not a few months about it.
+It’s a little better.
+I’ve been a problem that I’m sure I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+, and it's not.
+If you are the most important to be the same is one of the time.
+But I have been the other, I am still more than what you’t know and. I’re in the most of the same time, so I’ve been with them.
+I don’t have a few day, but I’ve been a lot to know if you’s just the same, or I’ll
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, the state of the result of the year,, we need to be the last year that are in the same thing, and the same way to be the other, and the most of the same time, and the same time, the most important-to-s are given to the one of the time, we have a great, it's not the time to the market.
+This is the end of the same time, the same time, the system has
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+"/to/3/2/11/
+I/c/3/c/f/C/4/0.1/9. I/f.0.5/c/2.
+   
+
+-
+
+
+-
+
+-
+
+
+
+  //
+
+  
+#
+
+
+
+#
+  
+
+-
+  
+  -
+  2
+
+  0.
+
+  //
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+that the main is the way to the game is that the company’s end of the second of the same, we have been a few years of the other in the world and the top of the same thing they are a simple for the most popular, and the government in the most of the last year.
+It is a number of the future and the world was to have the one of the same time.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.72s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+,,, we were used to provide it, or not, and, we have to have to have the other, and is in the way, the most of the future, the model is to the future, which is that the way of the first is a significant system.
+The data will be the same with the most important team of the local years of the world, and the same is to be the way.
+When the way to the other the study
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+that a few-old.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.08s
+
+---
+
+## Checkpoint: step_25000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_25000`
+
+**Load Time**: 0.20s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+?/2.3.
+
+import  
+  "
+
+  #   
+
+
+
+    
+  <
+    #* @if
+  
+  if
+    *  \
+  "
+  
+  *
+  -1
+  [
+  -0
+  -0
+  "
+  "
+  -i
+    -
+  "
+  *
+  -1
+    -1-t
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I love, I was just in my own work. I really know it, and I had to get a bit to the same. I don’t do a lot.
+If I think I was the very long you are too much.
+I am really nice.
+And I had to go to the problem, and was at the time, I'd have to see you.
+I do not have to get my life. I have been
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the final.
+-
+- This is that the best, we are just a new way.
+-
+-
+-
+- This is the same time, it is that the problem.
+-
+- The same year, and the end of the best way.
+- The same thing is a more important time in the last year.
+- The U.3.
+-
+- The  -1.S.
+-
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, "
+"@
+    "
+    "
+    }
+    "
+
+}
+
+"
+"this
+
+}
+
+
+
+    "
+
+
+
+    
+
+    "
+
+
+    "
+    $data = {
+    for,
+    "
+    }
+    "
+    $
+    "
+        "
+    "
+    }
+
+
+     *
+    "
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+You have to the day.
+The first-19-t. I’m not to all the time.
+“I’m not to say. I’m not.
+You’ve found a better very much I’m just like in the same. I’ve a day, I’m going to get a problem.
+I’ve a lot of my job.
+I’m not a good time, I’m not
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the time that the end of the past that the new year is that the world is not a couple of the top of the first case and the number of the $2) and the final list of the new data. The $1.S.
+The E-4-2 is the end of the group of the 1.5-S.
+
+-
+- The first time-year-in-S-in-c/d.2.5
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+they are so you’ll get you to get it in your own.
+I can’t be a bit that you’re still looking for your friend.
+I’m not just like this is to make the most people.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.42s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the first---s---4.
+- I am not being very bad, but, I'm not the "B" I really do. I've got to me, I am just a bit to be.
+I don't think it is in the point of the same time. I can't have a day to me.
+I can't be sure if we were something like it, but I'm not so much. I don't don't know
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+---
+
+## Checkpoint: step_25500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_25500`
+
+**Load Time**: 0.17s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+""$this
+[
+     "
+    {
+            "
+        "
+        @}
+        }
+    }
+    public "
+        return 0
+        }
+    }
+}
+
+
+        "
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        return "i"
+    "
+"
+    
+        return "
+}
+}
+}
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I love to get more to be a bit of this is, I have to take a lot of it. I have a nice to get a little bit of the day of the very big life. I did not have the time of it. I think I don't have some time I do not have it. I'll see what to do the same. I just wanted to the work and I would never want to be on the idea of my wife
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the main, is the most part of the country and the country, which is the most of the most of the same for the game, the field is the first-up.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.35s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, "$ and the best that the end is that the two of the first time to the same, if it is that the list of the game.
+This is the following of the most popular of the time that they can be more than the only thing that the time to the other of the current team. It is the best. It's the point in the world and the other and the problem.
+There are not only the other of the same, I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+if?
+\label{d"
+  -a.2"
+
+    "
+    {
+  "
+    -0;
+  "
+    "
+    x_1,
+    2,
+    _m_0,
+    
+    i,
+    -
+    
+    "
+    i,
+    0
+    {
+    //    "
+    
+   ,
+    @
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+that that it is that we are like a big way of it.
+You are good to have a lot of that is a nice to make the end of the new area.
+When it is the reason to the world is to do and that the case is the country that the study is the time to the state.
+The two-19 is a new system in the best.
+If you are the best, the “a” is in the way I would
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+,,, we can give you a few different or not the case, we can't find that you can find a good thing to go in your mind that you are not just the time you can do the time to the problem.
+The latest level is the time of the first to the table of the same time in the same time, and the value of the only time. In the case, it has been made of the main time, which the two-
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+so that it is not the part of the first time.
+The "What's it is that the point of the company" is the new and that the same. I don't want to be a small, and the two of the world is that the best that is.
+It's the first one, I have a lot of the last year, but in a lot of the "d” of the way, and the other is, but that the world was.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_26000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_26000`
+
+**Load Time**: 0.21s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+(1.10.5) 1,10.5,0,
+	2.
+	2.1,00,4,1,	3.4,0,2, 0,1,0,1,1,2,
+	D.2,0.10, 1,0,00,1,0,1,  2,0,
+	A,1,0,0,00,0,0
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+to the new way to have the whole, and it will be looking to.
+If you can do it a few weeks that is the same time to the top of the past, and they have to make the best.
+I would be it for that, if I think we don't think that you think it's a lot of.
+If you’ll be so far, I’m not a few days.
+We’re a few
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the end of the world.
+I’ve been, there are a few months to be a one, and I’d be able to be in.
+The year of the “and-f-2 is to be a part of the first time that is not a day of the world.
+But it’s a few months of the “s, but there's a new time, it’s not the time.
+The same thing
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+. The day, I was I had to be a time I was in my heart, and I was that in my family. I was a little bit, and the question was my friend, but I was a few years, I was a day in my eyes. I was a little, but I was in the same time to be a few of one. I would have the same time, I had been a very bit of the best friend in the top of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+I don't.
+"
+
+If you don't get your money, it is in the first time I will be the best to have the same time.
+
+I didn’t know what is that is like, and I’ve ever got out, but I’ve found in my life.
+I’ve been a little great. I’m not going to do me, and I’m not. I’ve tried to go
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a person.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.05s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+, this is not in the best of the last year, we have the first-to-to-end-to-up-to-2-5-3-1-1.
+-
+-
+- The
+- The R-0
+-
+-
+-
+- The C-S-19:
+-
+- I can't be the
+- I’t think it’s that, and I’m not.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the time. It’s a lot of the time you’re going to the day of the way.
+In the most common, we are in the best of the first time you should not have the last, the way you are now to be in the next year.
+I’m not the next week is a very best way that's a part of the whole idea that’s a person, that I have to be a great thing.
+I’m not
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+---
+
+## Checkpoint: step_26500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_26500`
+
+**Load Time**: 0.21s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+?
+<
+                        //  <p>
+  <p>username_this.  //   -d>
+  <div>
+  <div class="0</td>
+  <div>
+  <div class="name-size="2<div>
+  <div>
+  <td>
+  <div class="i-1,
+  <issue_this_size</div class="3,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I had to do that. I would really have it.
+I'll want to help.
+I think I don't know that. I can make sure I have just want to do. I do you like to the same time, I think I will be able to do that I know what I love?
+I don't. I know I love it, I want to get it.
+I’m very much more than to the time
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the following in the number of the final system, the main, for the number of the most of the case of the final century of the local and the United States and the data of the same section, with a few years of the number of the other of the most of the state, the form of the largest of the company is the final group of the event of the event and the first and of the form of the main development of the results of the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+All, the first post’s end of the rest of the city, they are not a single-for-line--based year, the first-s of the past-up and the first, we’ve seen.
+“You are in this, we’ve had a new one’s and the way I’m so that you’ve been the most of the world.
+This is a little bit of what I’m
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+.
+I’m not sure if I didn’t have. I’m not that.
+I’m not that’s very important?
+I’m very good or if I’m pretty much to my opinion.
+I’ve got a lot of my way.
+I can't be it as you’ve been.
+The best time I’ve got that!
+I’d never had my husband?
+I am
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the best of a 3-m-s and a time of the world, and in the fact that the first was a few of the first time, as he was the only of a “Gest” (and it was in the first and I don’t just have an interesting week to the past that I had the one of the one of the last one of the same as the best of the time he was in a lot of the same year of the main
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+that they are not the kind of the way of the problem. The of the number of the first person can be in the first, that the number of the area and the final and the data of the number of the city of the end of the total of the number of the market in the state of the study of the final century.
+The study of the field of the case of the C. The case of the state of the state of the new of the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+in the first time to the same time for this article.
+The main study is the world.
+
+The company is the only one year I can be the best of a very good way.
+When I have the same time, I've got a few years that's the way.
+I think I am in the first, I've been a lot of the way, if it's going to get a lot of the world.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+---
+
+## Checkpoint: step_27000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_27000`
+
+**Load Time**: 0.32s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+I was.
+I don't like it's so much.
+I’m not to be in a very well-on, and I’m not the story that’s time.
+I’m not. I’m a lot of her. I had to take me to do.
+I know I’ve been on, and I didn’t have. I have been going to be a bit of my father and I’m not a
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+you can't do the way of the new.
+In this time, I have been like a few years ago, but I would have the right, and I have a little bit of my hands. I didn’t have the same. I love a huge lot of my website. I’m not sure. I’m not sure. I think it’s not a lot of years. I’ve been a good kind of the right day
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+, and work, and how the process is the best to a number of the way.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.18s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+;;;;
+;
+    return;
+;
+,
+, ";
+}
+    }
+"
+}
+
+}
+}
+x <n,
+}
+
+}
+}
+    }
+}
+}
+}
+"self.2"
+    }
+
+}
+
+}
+ *
+}
+
+}
+  return 0,
+
+  }
+  }
+
+
+}
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+{
+}
+}
+
+
+
+
+}
+
+
+
+*  return
+
+
+
+  //
+  return
+
+  return $X
+    
+    return "1.1"
+    "
+  #
+
+}
+
+  }
+
+
+  private
+
+  }
+  #  1
+  
+  //  
+  
+  //    @
+  
+  
+    if (T)
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the part of the other, and the same to the other time, we are on the time of the game, it has to be the way to be the whole system and the top of the first time, the process will be used for the new and the current and the state and it is that the way of the end of the world and the state and the first to the number of the company. The way, we can take to be an excellent level of the fact
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+, and their, the first, then you have to the point.
+I have to do this time, it is a very much to the best time and I was so bad, it's a lot to do.
+I am going to say, the way of the same time is a lot of the first time to the entire job.
+In the way, there is a lot of the first game with the "A" and the best of the first,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+not the same thing.
+The U.2 is a set of the C.5.
+It is the most popular, but the end of the main situation.
+The E.2.
+A.
+
+As the same thing that the best.
+The 3 of the first time.
+The
+i was a new way, the team was the second “to that the “in” was a good place.
+The past as the U.2 is the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+---
+
+## Checkpoint: step_27500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_27500`
+
+**Load Time**: 0.28s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+00.
+"I. I have to see how much to me.
+And I do not be able to know, I have to me, but I do have a bit of the point I can have to work.
+If you’ve, I have a good thing.
+I think we are so that is not a lot of my own time, I would take out of the time.
+I can't get to me to make sure.
+"
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+the value of the world. The first-time, the project of the number of the time.
+The 3.5. The W. The United States. The F. A. It was the first project.
+The city is the first time of the game.
+The first new issue is the time of the second of the company. The case of the other time. The total of the main game is the first week and a result of the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+the--2-10-1-10-2.1.4.4,
+- 0.1.com.2.5.com.
+-4.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- I’
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+& about it. I was too good. I had to be very little bit. I was a bad. I was a little good point, but I did not use my favorite to my own. I was a couple of my life. I would take a problem. I've been a lot of the moment and the best. I have been as I was doing my life. I had a little to me. I am not sure. I was a lot of my
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+I get I have to see what I get. I would have to help me. I would just be the way I had to be able to be so many time. I got to me in my job and I’ve heard of me to do. I have a problem that I didn't like to do this?
+I know I don't have to help with my own time to the first time I'll be the way. I don’t know about
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a great and I don't have the next thing. I can't have the best time of the one. I’ve got that he’s no bit more.
+I’m not just going to be. I’ve tried to know that.
+I have to look out a very good thing. I think he’s the time and I’m going to get that.
+I’m a lot of my way. I’ll give me better
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+we are not so that it is not one of the end of the time, it is not the same time that it is that the second point of the same.
+The most common in the final list of the two of the end of the system, the other of the number of the event in the two-s.
+The results of the case of the following.
+The new current of the field of the state of the D.5 million and the current
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the first time of the whole.
+We are not a few months of the right way of the top of the first, it is that that the way that the end of the first is not just the best.
+
+The first time, it was an important for the most of the same thing is a couple of the game.
+The problem is not a new time to the “in” of the "The P"
+"I have a good-in-year-
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_28000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_28000`
+
+**Load Time**: 0.23s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+def:
+A:
+
+#"
+
+
+#"
+
+
+"
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  "
+
+
+
+    "
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I am not just to get my own thing I don't have a person, but I'm not on my heart and I think I'm not sure that I could do with my first step up. I am looking for me. I'm not a nice problem for my own.
+
+I'm just like a bit of my favorite, and I think I have to say I've had the same way, and I’d really just can’t
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+for a new project or more.
+If you are all these people are being a lot to the most popular and have any of the case of the main year.
+There is the world and the best is that the new of the team was not a particular way.
+The same thing that the whole number of the new data is not an interesting reason that the final system is the other.
+The second year.
+A.
+It is a nice for
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.77s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+“We’ll be a great problem.
+It’s a chance to be done at the world.
+If you’t want to do the same time, you can see it.
+
+- The only way, it’s a few months for the day, but they’re a very popular-in-to-s.
+- The story that’s so they’re so that’s why you’ll see all the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+#    " => {
+        $this.this.get_data.path.v.size.get(0.S.com.org.text,
+        $this.get(
+        }
+    }
+        }
+        return new {
+        if.get_type(p.id.this.get("name.return "id_id.if (v.get_comment>
+        return 0
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the one of the two---------------------------------------------------2-----4--a-----------------------S-----
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+,,, we were the world with a lot of the end, or even the year, if it's the most of the first- of the day, that the point of the game is a bit of the new system and the country.
+A: "We have to be a good way I will be better than the name of the main level of the “on” and the other’s MBA. In the number of the same time, the end
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the one of the time of the world.
+“I had to get a very important thing that's I was a little bit I was in the idea. I was an open, so I was my own one is that I was so good. I was the best time I don't love the time I can't see how to go. I am not a lot of my friends, I was a lot of the past, but the “I have to be a great thing that
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_28500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_28500`
+
+**Load Time**: 0.29s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+\end{\end{C}
+\end{2]
+\end{{2}
+\end{e\}
+\frac{d}\{C}
+\begin{ \ref{C}
+\end{in \begin{s\end{{p\begin{2}
+\end{end{t\label{{{d \\begin{{2}
+\begin{i{\
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.03s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.05s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, and what we are, it, not, and they are a bad, and the whole, and we have to be not on.
+It's not a lot of the same.
+I am very important, but the "s." I think that the course of the one.
+How do it, that I'll get it. I will think the reason I want to be in the world, and the way, but we've never got a couple of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+-2.4.1:m.
+
+
+
+
+    "
+
+    {
+    -
+    #
+    -
+    "
+    -
+    -
+    "
+    "
+    $T
+    "
+    
+    "
+    "
+    "
+    "
+    "
+    "
+    }
+
+
+
+        "
+    -
+
+
+    "
+    -
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a lot of a time and we’re not.
+I’d like a very good story and I’m going to be the time, but I’m not to a lot of the world.
+I’m not sure, I’m going to the way, but I’m not a few months. I’m going to be. I’ve got a lot of the same thing, and I’m sure that I’ve been.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+we want to the same for the “and I’m not just that.
+I don't see it. I’m not the way I don’t go in the time I’d think it's something that’s the day.
+I’m not a good thing I think it’s not sure that's been the same.
+I’m not the problem on the time.
+I know you’d like me. I’m
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the case of the area.
+
+You have to be able to the entire time and the world is the way that it is about the day.
+The first time to the same time, there are a single day and a little, the first time we can’t take the same way.
+When I have to make this question, if they will be done.
+
+I am not the problem that the same thing.
+We are not only a lot of the first
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+---
+
+## Checkpoint: step_29000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_29000`
+
+**Load Time**: 0.15s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+. I have a little I would not like. I have to get to my home. I think that I just have to say that it's a bit. I can try it. I don't know how to do them. I have to get my body to do you to keep in. I have a lot of my life or a lot of people. I didn't use the same way. I don't get to do, but I have been just on,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.84s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+is not in the way of the country’s and the top of the world and was not to be the two of the University of the world.
+The “the way to do that the second of the end of the time of the world’s and the most of the U.5, the most popular was in the top of the end of the world.
+The B.
+A.
+I’m not a one of the world’
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+and help of the world.
+"
+"This is a one of the state.
+
+"We get the most common and the end is that they will be a common as a lot of a full-in-and-t-in----in------19.
+The second--2-the-4 is a "i"
+-
+- The A-f-and-of-up for
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0x8, 0x3, 0x1, 0, 0x0, 0x1, 0x17, 0, 0x9, 0x1, 0x1, 0x, 0x2, 0x4, 0x1, 0x0x5, 0x00, 0x
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+I was the one to be a time but he was the first time of the world, but I was the most important to be a better problem with the first, but the game is a good way I had a very simple and it was the best.
+I'm not a big friend, and I was able to do it.
+I never had a better way, and the most of the best way to make a good work for me, I have been
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+an important.
+The last week was the world to the P. I have been the only time of the first, but also a lot of the one. It was the first time.
+I did a really time, the most of the time we had done. The day and the world was a really first time to the new and that the time is a great reason.
+It is that the way that the same time he was so on the way, but the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+,,,,,, you can see how to see that, it is not.
+"I have to use it, it is a lot of all, but we are in the same time, but we can not be the way, and we can be like.
+I want to be a bit of what I want to find the time we can use the way to go. I can be able to go with this time, but it's not just the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+not the one of the world.
+The National B.
+A.
+“
+This is a result of the "B/or" is not as a small, and it is to a number of a few of people who are not a very nice to the point.
+
+You can do it.
+
+I'm not too important?
+I am not the way for the next time you're going to be the same.
+In the “to the way of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_29500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_29500`
+
+**Load Time**: 0.21s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+I am not the same thing I have a day, but I don't know that my time. I can get the world to you, but I'm going to do you.
+
+I'm not my first thing I was good so much.
+I think I've done, I think I've got to get my work.
+This is a little bit of the same thing. I didn't be a good thing.
+I have just seen that I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+to be not-t---and-s---to-------s--19--S---8-5-2-S-2-9-18-1-5-3-10-3-c-3-S-1-7-0--a-2-2-g-4-4-5-8-2-7-15-1
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.04s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+But you know, I would like to be able to be on this.
+I have a new work on the way to be very hard. I love the way to do this time.
+In the end of the most popular and the second-in-day, it will be a lot more than it's just to do the time.
+You might know what we'll have to make it and I know if I was a lot of the game and
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+?
+"In a good time.
+I’ve have the one of the day and the problem of the "t I don’t have the best to get that. I’ve had to be a great time to do the way.
+A part of my face.
+I’m not a great thing. I’d have done.
+I’ve been getting the idea.
+I’m going to get a great thing and like
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the top of the way of the final years.
+The past the book will be a good time to the way I was a lot of the last year.
+If you have no longer, I’ve been my husband, it was just a lot. I'm going to go with the new book, it was to go to the time.
+As, I had to go to a lot of my job, but we had to be a good, the first thing
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.89s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+or not just get you.
+I have some more than you are.
+I am very well just like they’re going to see it.
+I’m not in the night?
+I have to do that. I had to do, I have had to look with the same time, and I've never had a lot of people who are there, but I don't know, but it's too much.
+You can’t be able to
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+one of the place of the world.
+
+
+You can also be made from the next year, we are not a lot of the new system.
+
+In this time, it has the first, there is the "A" and it is that if you want to be done, and the way of the world.
+And, this is that, the "if they're not an ideal thing is that the next time you can be a long thing.
+I just
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_30000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_30000`
+
+**Load Time**: 0.21s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+/C/20/C/4.5/3/t/c/3/2/42.org/2-t/3/10.2/11/1/7.g/3-10/d2/3/C/6/3-1/7-2-7/3/1/0/0/2-0/5.com/3.2/10.2-5-10
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I don’t have a lot of, I’ll go on the time I’ve been the time. It’s so that I’d like the fact I’m just like the moment you’re able to think it’s a lot of years, it’s no one thing.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.55s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+, and the time, a few minutes in the state.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.13s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+“I am a lot of the second day. I wanted to know it was a lot.
+I would have a very hard to get as the new way to me as I could be able to be a new way.
+
+You can give me as a very long thing in the next month. I'll be a couple of the new, so that you have a bit of the new book is not a good time. It is a bit more.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+-, we have you like. I think you are looking at the way you are still a lot of the day. I have been very good in the new and I can go. I am having my own for my home, and the new.
+I don't need the time to know it. I can't know about what I've seen, and I did. I want to me about that. I've got my first time, I have a lot
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a very happy to the time for the number of the first day.
+The case of the US is a new way of the best time of the past, the year was not the one-a-in-a-S.
+The C-C of the top of the last-based of the first season.
+The case of the game of the second-p-3.
+In the two-1-4 and a new and the world.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+or use, it is a lot of the current and the state of the game, but if you have a lot of the problem for the first time, they’re also the way of the first.
+We don’t get on a lot of the "to you not not only a way.
+It is the same and a few years I have to be the way you are not a great reason to the end of the new way.
+I would have
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the most common.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.06s
+
+---
+
+## Checkpoint: step_30500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_30500`
+
+**Load Time**: 0.26s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+If you know that you are you, if you don’t have a lot of things to work, you’ll be really a lot of people and not in your.
+The main thing I’m not sure that you do not have to be.
+I think I don’t just have to see how we do, or you’ll be done.
+You’re able to keep the best of them, I’m not sure to do
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+, he’t have to have a little of, I’m not going to be the same thing of that I’d want to get to know that I’m not sure that we’d have to get a little bit of the point, which they are.
+
+It’s a lot of what I’m not in.
+I’m not just a lot of one of the fact that I’m not.
+I’
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the other.
+
+The first new state of the game was a “s” (1) with the second time, the best of the second-day or more than the most recent-based field, the one that was an individual.
+The first-time, the game was a very few of the following-on, at the second-in-f and the best--on.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.71s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, M, 12, 12, St, 6, 9, T, 4,0, G,, 0, 0,1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+m.
+
+"
+@
+
+"public"
+
+"
+
+
+"self.
+
+"
+
+
+
+
+
+
+
+"
+"
+"I am
+""
+"
+"
+"
+"\
+"'
+"
+"
+
+"
+"{
+""\
+"$
+
+}
+"
+"
+""
+
+"\
+"
+"
+<
+<
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the most of the number of the city and the second.
+The first time I have been the first time.
+You can't be a very much more of the time, but the case is to the use of the past.
+If you can make it that, you can do this.
+This is a bit of a lot of the fact that the end is the same time.
+This is a lot of the same time to be a great, and the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+we can get it, but not make it, and it is that we can know that it is a few days in the same time to the best.
+We are very important, I have it a lot of the time, and then that it is the best of the way to get that we may not have to be that the the first is that we are doing.
+I think I’m not the idea, the company was that the same is that the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+a bit of a few times.
+The city is the second with a problem of the most common process of the case of the time, the market, and the world, which is the best, the two of the time, the current. This is not a new game that the case is a single day of the first of the case, the case of the first of the number of the final year, and the state of the world, the other the event of the other of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+---
+
+## Checkpoint: step_31000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_31000`
+
+**Load Time**: 0.26s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+. I know. I am the way I can be. I have a problem so good! I have to do I have a little bit of my heart.
+I thought that's a lot more. I know that I just do in this. I don't look like my way I don't get my life.
+I think I was a big way. I was really a little bit in the day. I have no doubt I did that. I was happy
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+a little bit a good place, and it's not that it would be, and you will get this.
+You know what we’re going to do not be the same.
+I’d want to be that I’d like to be a lot of the time in the most of the man, I do not think they’ll know how that I think about it? I think it was so good about the same way, but we can
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.61s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the first in the “M-S-G-C-20-1-1.
+- The N-0-S-S-3.2-2-30-1-1-10-2-61.3-62-S-1-6.5-0.1.5.
+-
+-t-12-30-0.S.5-5-6-10-c-
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.62s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+, "", """""\"T.
+"\$\${\n"1\ \\end{{"\end{\end{\end{d} \begin{n-2}\end{a{\end{i\end{G\end{B$
+\end{b\$ is $ of \$\frac{in}
+\end{2{2\end{
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.63s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+//  "
+      "
+    "
+   .h_get(if_s_t_2:'s_self.set_data.get_n_name_m_data_get_t_name_name_2_to_n_class_add_get_size_get_key_in_size_in_k_get_get_m_1_s_get_class_set
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.62s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a good day.
+So, we’re a bit more about the moment, and it’s just as a few days. The fact is this point to be the time, and this is the first day, and the same is to be a very much more than it.
+And you are not enough to the same, but that has to do a good idea of the time, but if the world is the way, if you know, it is the idea
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.72s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+and we are not a few of the number of the first time.
+If it's the way that the best is not only the way of the same thing that the end of the value of the city of the company’s.
+The same thing that the state is the company of the top of the US.
+In the second level, the two of the first and the case of the most of the world, which the state of the city is the first
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.81s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+to be going to be the same time, it's so that I could find a good thing in the only way.
+We are not only so that I would have it in the last year.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.33s
+
+---
+
+## Checkpoint: step_31500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_31500`
+
+**Load Time**: 0.13s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+about what the time you’re going to get to the idea of it.
+The only one of the last year of the most recent time and the new world is to be the best. The next thing was a lot of the year.
+There is a great way of the second year, that is not a part of the first time, but the first thing they have made it. It is to be the idea of the "T" and I’m
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.63s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+/3/2/v/1/7-10-a-1/2/e-t/2/1/10-8-0/3-2-2-5-g-5)
+
+A:
+- I’m a few-p-s, but I’m a lot for a few. I’m not a bit, but I’m not a good time.
+
+I’m
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.61s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+.
+This is not a person that is not in this year, and he’s not a lot of years, and the first time we are now.
+The same thing that he are not the time, who are not the first year.
+If you are not a lot of the way, I think it was a little bit, and that we have done the same time, and I have got a small.
+I think I'll take the game
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.62s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+And I would say that’s
+in’s first time I was a great home that’s not a lot of time. It was a good thing.
+“You’ve been very easy to do that’s more people who had to get on it. I’m not being, but I’ve done and a lot of people would be a lot.
+The very much of my way.
+I think I’m looking for
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.66s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+t.
+I was the time I didn’t think, I’d got my way I’m not too little, but I’m not too. I’m not my husband in the time I’ve had to have to have it for me.
+I know if I do you. I’ve had to get me, and then I was so good. I’m just like that. I’ve seen a few years ago,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+a great way to be a time.
+When you know how to look at the right and then you will have to look at the best in your new or the first time to be able to make the best, you can help you have to get the things that you get to the most important, they can see the last.
+We have a little bit of the right time I have to be too that it’s the story that I’d never know that if
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+in the second.
+"I want to be a good situation in the world.
+I didn't want to keep me, but I want to say, so I know, and the idea.
+That was a long way that was no one of the way I was.
+I'm not a lot of the end. I was so good.
+I have the way, but I’m not a really very nice.
+I have ever never had an
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.83s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+the same. This is a big way that the country is one of the other hand. The same thing is a good way to know the most popular and this is the same thing that the most common, which we have a lot of the point. The following time, we can get the reason to the first time in the best and the most important system to your phone. It has a great deal with the first-like and the most popular, which is a few years we could
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_32000
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_32000`
+
+**Load Time**: 0.18s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+.
+I have to be happy and I can help you.
+I’m not looking for you.
+I’m not that I’m not to go out.
+I’m not so much about the game. I’ve just like the world. I’ve been on the end of the day. I’m not so better, I’m very great.
+I’ve had a good time I’m not.
+I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+. I will have a good problem. I’ve been there in my first year I’ve had the same time. I was like a lot to me in my first time I was that my first thing. I could never use it that I have to see that I had a lot of the day I have a great-up and it was going to the way of the point. I have it a bit of the same time I’m a chance
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+in the main and the number of the two of the year and the state of the other is the world.
+The case of the total of the study and the of the first two of the other and the other and the development of the same time of the most of the value.
+We have to the final section of the first time in the city.
+The Nationals of the number of the other in the field of the world, which the of the
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+,000, 5, L, J, M, A, New York, 2,2, 2,30, G, 0, 0, 1, 3, and 3, 6, and the only way of the top of the number of the state and the United States.
+S.1, I have a lot of the most common business,000 days, and the time of the first-up.
+C.
+
+S.
+The first
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+?
+?
+import java.com/3.m.org/1/m/d/e.g/0.3.com/S.1/0.S.com/p.3.com/c/t/id/m/g/1.6-2.6.3.5.0.html/0.0.S.m.com/10.0/1/0.8.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the game and the most of the future.
+The latest is a very simple role, and the state that will be the case of the new number of the following information and the same time to the the final and the event of the second--in-year-year-a-of-like-and-19-based (1) the same and the field of the second-19.
+The new S.S.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.76s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+to, it, and, or to, and you may be very likely to see, because they are, and that, and the results of the most of the same way you can find you.
+This is the time, we are being a great of the only thing, and we don’t even get the time, but I think it is what you do not.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.66s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+a different different and a few other to the way of the time of the other people, the case of the most of the company of the most of the first time of the same in the world.
+
+The entire is a part of the day and the most important year.
+If we're a number of the company’s business of the day of the first time, the one of the past year, the other of the first time you will have to make the end of
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
+## Checkpoint: step_32500
+
+**Path**: `../pico-train/runs/pico-decoder-tiny-dolma5M-v1/checkpoints/step_32500`
+
+**Load Time**: 0.22s
+
+### Prompt 1: "Hello, how are you?"
+
+**Response**:
+```
+I can't know if it's a good way to do it, but I think it's my name, I can get it up for it.
+I'd like to the same time I do?
+I love the day I didn't want to the question for me!
+I hope to know I’ve had to do, but I am not a lot of my first way. I don't just say I was very good and that I do not like
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 2: "Complete this story: Once upon a time"
+
+**Response**:
+```
+:00:1:10: 0;
+    f:30: 2,
+    D: "
+    get: 1: "T:
+    2:
+    get: [0:1: "
+    2: "
+    "
+    d:
+    0: 't: {
+    get:
+       "
+    2:
+    0: '2:
+    x-2: -0
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.78s
+
+### Prompt 3: "Explain quantum physics in simple terms"
+
+**Response**:
+```
+of the best.
+
+
+
+
+
+
+    
+    }
+
+
+
+
+
+
+
+
+
+  @return
+    
+    return
+    to
+    }
+
+    A
+
+
+    2(
+    "
+    return
+    $0
+   ,
+    "
+    }
+  }
+
+
+  }
+
+
+  @}
+    
+    
+    if not
+    }
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 4: "Write a haiku about coding"
+
+**Response**:
+```
+.
+There are not one thing.
+The first few of a person and I have a lot of time for me.
+And you’ll be able to be the most different of the world.
+The U.5.
+There are many time and I can’t have a lot of the game.
+It’s the next year, but I’m not a lot of the way.
+You can’t make this.
+“I
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 5: "What is the capital of France?"
+
+**Response**:
+```
+. I was very many things that was the next to a time. I was. I was a time to the same, I was the one of the past to the world in the time. I was just a year of my friend. I was in the idea to the time I was the world. I did not be. I am like the best, but I was a very busy and the "He was the idea that he was a very short-d
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.79s
+
+### Prompt 6: "The meaning of life is"
+
+**Response**:
+```
+the most part of the end of the country’s first-day and the past of the “A” of the first time-end” which is one of the first time that the same, we want to be the same of the other and the process.
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.47s
+
+### Prompt 7: "In the year 2050,"
+
+**Response**:
+```
+and they have not only that it is that it is not that they will be able to use of the same time in the most popular or what is a good thing to do the most of the first thing that we know that the other will have the time to make the one of the new level of the study of the other of the “on” and the most effective.
+He’s a few years of the entire post in the way of the new day,
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.80s
+
+### Prompt 8: "Python programming is"
+
+**Response**:
+```
+that it is that the first time to the game and the world.
+"I don't go to the most of the right with a new case, but it's not that the same time of the way. The first one is the only way to me, but, and I would have been a lot of people.
+
+I would not know that I have a lot of the moment I think of the idea that I know that I can't look out. I know that
+```
+
+**Metadata**: max_length=100, temperature=0.7, time=0.82s
+
+---
+
